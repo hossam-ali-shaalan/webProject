@@ -82,7 +82,7 @@ z-index: 9;
 	background-color: red;
 }
 nav.nava{
-	background-image: url('imgs/01.jpg');
+	background-image: url('01.jpg');
 	background-size: cover;
 	
 	height:91.5vh;
@@ -229,13 +229,15 @@ table, th, td {
 			width: 20%;
 		}
 		.dropdown .dropbtn{
-			padding: 25px 20px;
+			padding: 25px 0px;
+			width: 100%;
 		}
 		nav.nava{
 			
 			background-size: 768px;
+						
 			height: 76vh;
-		}
+					}
 		div.cont{
 			display: flex;
 			flex-direction: row;
